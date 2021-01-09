@@ -5,7 +5,7 @@
 
 ## Repositories
 <a href="https://github.com/sawansib/DynamoRio-ARMTracer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sawansib&repo=DynamoRio-ARMTracer&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sawansib&repo=ARMTracer&theme=dark" />
 </a>
 
 <a href="https://github.com/sawansib/Splash-3-hooks">
