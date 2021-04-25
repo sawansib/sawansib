@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawansib&layout=compact&theme=dark&show_icons=true)
 
 ## Repositories
-<a href="https://github.com/sawansib/DynamoRio-ARMTracer">
+<a href="https://github.com/sawansib/ARMTracer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sawansib&repo=ARMTracer&theme=dark" />
 </a>
 
